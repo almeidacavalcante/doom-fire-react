@@ -1,5 +1,3 @@
-## Preview
-
 ### Overview
 ![Preview](src/assets/doomfirepreview.gif)
 
